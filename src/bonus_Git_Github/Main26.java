@@ -6,6 +6,6 @@ public class Main26 {
 		
 		System.out.println("Bom dia!"); // testes para alterar o projeto antes do commit
 		System.out.println("Boa tarde!");
-
+		System.out.println("Boa noite!");
 	}
 }
